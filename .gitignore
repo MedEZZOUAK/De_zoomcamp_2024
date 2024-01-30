@@ -174,3 +174,6 @@ magic-zoomcamp
 *.json
 
 week2/mage-zoomcamp
+
+#parquet files
+*.parquet
